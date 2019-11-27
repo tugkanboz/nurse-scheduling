@@ -24,7 +24,6 @@ function disbtnNonShiftTable() {
 function disbtnAnnualPermit() {
     $('#disableAnnualPermit *').attr("disabled", true);
 }
-
     $( function() {
         $( "#sortable" ).sortable();
         $( "#sortable" ).disableSelection();
