@@ -1,1 +1,1 @@
-<?php header( "../headnurse-pages/headnurse-make-schedule.html" ) ;  ?>
+<?php header( 'Location: ../headnurse-pages/headnurse-make-schedule.html' ) ;  ?>
