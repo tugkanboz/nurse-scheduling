@@ -1,7 +1,7 @@
 {
   "name": "my-static-site",
   "version": "1.0.0",
-  "description": "headnurse-make-schedule.html",
+  "description": "index.html",
   "scripts": {
     "start": "harp server --port $PORT"
   },

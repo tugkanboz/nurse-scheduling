@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f928cf3e-4311-4bdc-b417-5a1c51cda509" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main-pages/main-login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="85" column="7" lean-forward="true" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+              <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -39,9 +41,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="62" selection-start-column="34" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/headnurse-pages/headnurse-make-schedule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
+            <state relative-caret-position="406">
               <caret line="2526" column="10" selection-start-line="2526" selection-start-column="10" selection-end-line="2526" selection-end-column="10" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -350,7 +370,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/headnurse-pages/headnurse-index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
+            <state relative-caret-position="406">
               <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
               <folding>
                 <element signature="n#body#0;n#html#0;n#!!top" />
@@ -409,8 +429,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/headnurse-make-schedule.html" />
-        <option value="$PROJECT_DIR$/hospitaladministration-nurselist.html" />
         <option value="$PROJECT_DIR$/hospitaladministration-index.html" />
         <option value="$PROJECT_DIR$/hospitaladministration-create-headnurse.html" />
         <option value="$PROJECT_DIR$/hospitaladministration-nurse-list.html" />
@@ -460,6 +478,8 @@
         <option value="$PROJECT_DIR$/main-pages/main-forgot-password.html" />
         <option value="$PROJECT_DIR$/main-pages/main-register.html" />
         <option value="$PROJECT_DIR$/headnurse-pages/headnurse-index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -474,7 +494,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -485,38 +504,13 @@
             <path>
               <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
               <item name="capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capstone" type="462c0819:PsiDirectoryNode" />
               <item name="headnurse-pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="hospital-administration-pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="main-pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="capstone" type="462c0819:PsiDirectoryNode" />
-              <item name="nurse-pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,15 +523,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/developer-pages" />
       <recent name="$PROJECT_DIR$/headnurse-pages" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/main-pages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -574,6 +568,8 @@
       <workItem from="1574752444234" duration="27291000" />
       <workItem from="1574845602348" duration="2367000" />
       <workItem from="1575911483356" duration="613000" />
+      <workItem from="1576306933557" duration="831000" />
+      <workItem from="1576309766121" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="Adding nurse checkbox">
       <created>1574835948511</created>
@@ -617,11 +613,32 @@
       <option name="project" value="LOCAL" />
       <updated>1574847219442</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="php add">
+      <created>1576307000933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576307000933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="php add">
+      <created>1576307284744</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576307284744</updated>
+    </task>
+    <task id="LOCAL-00009" summary="mainpage changed">
+      <created>1576309864788</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576309864788</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78337000" />
+    <option name="totallyTimeSpent" value="79396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1177" height="728" extended-state="0" />
@@ -639,7 +656,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3018868" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.18710692" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24056605" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -709,17 +726,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Adding nurse checkbox" />
     <MESSAGE value="Deleting 'Report Page' from HeadNurse" />
     <MESSAGE value="Nurse availability page fixed." />
     <MESSAGE value="Adding comment line for backend" />
     <MESSAGE value="Background image for Login, Register, F. Password." />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="php add" />
+    <MESSAGE value="mainpage changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="mainpage changed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/teams/fc-barcelona.png" />
-    <entry file="file://$PROJECT_DIR$/docs/form-components.html" />
     <entry file="file://$PROJECT_DIR$/docs/index.html" />
     <entry file="file://$PROJECT_DIR$/docs/grid.html" />
     <entry file="file://$PROJECT_DIR$/docs.html" />
@@ -1143,9 +1161,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main-pages/main-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headnurse-pages/headnurse-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <element signature="n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/headnurse-pages/headnurse-make-schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
+        <state relative-caret-position="406">
           <caret line="2526" column="10" selection-start-line="2526" selection-start-column="10" selection-end-line="2526" selection-end-column="10" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -1450,25 +1490,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/headnurse-pages/headnurse-index.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-          <folding>
-            <element signature="n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state>
+          <caret column="62" selection-start-column="34" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main-pages/main-login.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="85" column="7" lean-forward="true" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
         </state>
       </provider>
     </entry>
