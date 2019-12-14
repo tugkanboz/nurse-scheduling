@@ -1,1 +1,1 @@
-<?php include_once("../headnurse-pages/headnurse-index.html"); ?>
+<?php include_once("../headnurse-pages/headnurse-make-schedule.html"); ?>
