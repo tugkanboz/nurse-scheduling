@@ -1,3 +1,2 @@
-# nurse-scheduling
-This project developed by some students. 
-It will be public project after capstone presentation.
+# capstone_v1
+Capstone Project - Nurse Scheduling System
