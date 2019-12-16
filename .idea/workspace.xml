@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f928cf3e-4311-4bdc-b417-5a1c51cda509" name="Default Changelist" comment="Background image for Login, Register, F. Password.">
+    <list default="true" id="f928cf3e-4311-4bdc-b417-5a1c51cda509" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/dashboard.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/charts-c3/plugin.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/plugins/charts-c3/plugin.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,40 +37,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>logo</find>
-      <find>other</find>
-      <find>doc</find>
-      <find>docu</find>
-      <find>title</find>
-      <find>admin</find>
-      <find>hospital</find>
-      <find>active</find>
-      <find>index</find>
-      <find>poland</find>
-      <find>dotte</find>
-      <find>create</find>
-      <find>home</find>
-      <find>con</find>
-      <find>float</find>
-      <find>size</find>
-      <find>div</find>
-      <find>import</find>
-      <find>ajax</find>
-      <find>demos</find>
-      <find>console</find>
-      <find>feb</find>
-      <find>tug</find>
-      <find>maps</find>
-      <find>gstatic</find>
-      <find>london</find>
-      <find>save</find>
-      <find>delete</find>
-      <find>report</find>
-      <find>make</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -99,15 +63,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/developer-pages" />
       <recent name="$PROJECT_DIR$/headnurse-pages" />
       <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/main-pages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,7 +107,7 @@
       <workItem from="1574680159649" duration="21480000" />
       <workItem from="1574752444234" duration="27291000" />
       <workItem from="1574845602348" duration="1173000" />
-      <workItem from="1576482254304" duration="1478000" />
+      <workItem from="1576482254304" duration="3547000" />
     </task>
     <task id="LOCAL-00001" summary="Adding nurse checkbox">
       <created>1574835948511</created>
@@ -180,7 +144,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574846341090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Deleting unused CSS">
+      <created>1576484093282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576484093282</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deleting unused CSS. &#10;tabler.rtl.css">
+      <created>1576484964756</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576484964756</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding CSS. &#10;tabler.rtl.css">
+      <created>1576485033035</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576485033035</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,11 +199,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Adding nurse checkbox" />
     <MESSAGE value="Deleting 'Report Page' from HeadNurse" />
     <MESSAGE value="Nurse availability page fixed." />
     <MESSAGE value="Adding comment line for backend" />
     <MESSAGE value="Background image for Login, Register, F. Password." />
-    <option name="LAST_COMMIT_MESSAGE" value="Background image for Login, Register, F. Password." />
+    <MESSAGE value="Deleting unused CSS" />
+    <MESSAGE value="Deleting unused CSS. &#10;tabler.rtl.css" />
+    <MESSAGE value="Adding CSS. &#10;tabler.rtl.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding CSS. &#10;tabler.rtl.css" />
   </component>
 </project>
